@@ -8,6 +8,9 @@
 </p>
 <hr>
 
+[DEFAULT LEMLIB TEMPLATE MADE TO BE EASILY COPYABLE BY MEMBERS LEARNING PROS]
+
+
 >[!IMPORTANT]
 > LemLib is being written from scratch for its upcoming v0.6.0 release. You can find the source code for the latest stable version of LemLib [here](https://github.com/LemLib/LemLib/tree/stable)
 
